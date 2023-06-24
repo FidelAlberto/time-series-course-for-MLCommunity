@@ -4,5 +4,6 @@
 =================
 
 * [Series Temporales](#series-temporales)
-	* [Introducción](#introducción)
+	* [Introducción](https://github.com/FidelAlberto/time-series-course-for-MLCommunity/tree/main/Introduccion)
 	* [Correlación](https://github.com/FidelAlberto/time-series-course-for-MLCommunity/tree/main/correlation)
+
