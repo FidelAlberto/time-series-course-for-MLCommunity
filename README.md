@@ -1,6 +1,6 @@
 ## Curso de Deep Learning sobre series de tiempo ML Community Perú
 
-Table of Contents
+Tabla de contenidos
 =================
 
 * [Series Temporales](#series-temporales)
