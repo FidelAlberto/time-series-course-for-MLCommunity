@@ -5,4 +5,4 @@
 
 * [Series Temporales](#series-temporales)
 	* [Introducción](#introducción)
-	* [Correlación]([https://github.com/FidelAlberto/time-series-course-for-MLCommunity/blob/main/Correlation.ipynb](https://github.com/FidelAlberto/time-series-course-for-MLCommunity/tree/main/correlation)https://github.com/FidelAlberto/time-series-course-for-MLCommunity/tree/main/correlation)
+	* [Correlación](https://github.com/FidelAlberto/time-series-course-for-MLCommunity/tree/main/correlation)
