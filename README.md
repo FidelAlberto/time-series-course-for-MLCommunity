@@ -1,4 +1,4 @@
-## Curso de series de tiempo ML Community Perú
+## Curso de Deep Learning sobre series de tiempo ML Community Perú
 
 Table of Contents
 =================
