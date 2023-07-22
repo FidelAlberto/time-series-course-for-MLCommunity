@@ -7,10 +7,10 @@
 * [Correlación](https://github.com/FidelAlberto/time-series-course-for-MLCommunity/tree/main/correlation)
 * [Autocorrelación](https://github.com/FidelAlberto/time-series-course-for-MLCommunity/tree/main/Autocorrelaci%C3%B3n)
 * [Time Series Analysis](https://github.com/FidelAlberto/time-series-course-for-MLCommunity/tree/main/Time%20Series%20Analysis)
-	* Correlation and Autocorrelation
-  	* Time Series Models
-    	* Autoregressive (AR) Models
-       	* Moving Average (MA) and ARMA Models
+* [Arima Models](https://github.com/FidelAlberto/time-series-course-for-MLCommunity/tree/main/Arima%20Models%20in%20Python)
+* [Time Series Manipulation](https://github.com/FidelAlberto/time-series-course-for-MLCommunity/tree/main/Time%20Series%20Manipulation)
+* [Book Time series analysis with python (Tarek A. Atwan)](https://github.com/FidelAlberto/time-series-course-for-MLCommunity/tree/main/Time_series_analysis_with_Python)
+
 
 
 ## Introducción
