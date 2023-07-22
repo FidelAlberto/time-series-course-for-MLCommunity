@@ -7,6 +7,7 @@
 	* [Introducción](https://github.com/FidelAlberto/time-series-course-for-MLCommunity/tree/main/Introduccion)
 	* [Correlación](https://github.com/FidelAlberto/time-series-course-for-MLCommunity/tree/main/correlation)
  	* [Autocorrelación](https://github.com/FidelAlberto/time-series-course-for-MLCommunity/tree/main/Autocorrelaci%C3%B3n)
+  		*ok
    
 
 
