@@ -8,7 +8,7 @@
 * [Autocorrelación](https://github.com/FidelAlberto/time-series-course-for-MLCommunity/tree/main/Autocorrelaci%C3%B3n)
 * [Time Series Analysis](https://github.com/FidelAlberto/time-series-course-for-MLCommunity/tree/main/Time%20Series%20Analysis)
 	* Correlation and Autocorrelation
- 	* Time Series Models
+  	* Time Series Models
     	* Autoregressive (AR) Models
        	* Moving Average (MA) and ARMA Models
 
