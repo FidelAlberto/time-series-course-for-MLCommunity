@@ -10,6 +10,7 @@
 * [Arima Models](https://github.com/FidelAlberto/time-series-course-for-MLCommunity/tree/main/Arima%20Models%20in%20Python)
 * [Time Series Manipulation](https://github.com/FidelAlberto/time-series-course-for-MLCommunity/tree/main/Time%20Series%20Manipulation)
 * [Book Time series analysis with python (Tarek A. Atwan)](https://github.com/FidelAlberto/time-series-course-for-MLCommunity/tree/main/Time_series_analysis_with_Python)
+* [Python advanced functions](https://github.com/FidelAlberto/time-series-course-for-MLCommunity/tree/main/Python%20advanced%20functions)
 
 
 
